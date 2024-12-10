@@ -1,0 +1,10 @@
+sounddevice
+numpy
+scipy
+python-dotenv
+faster-whisper
+gtts
+gradio
+aiogram==2.22.1
+soundfile
+aiohttp
